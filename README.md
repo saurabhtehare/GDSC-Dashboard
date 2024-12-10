@@ -66,9 +66,9 @@ The Power BI dashboard provides a comprehensive view of the GDSC dataset through
 <img src="logo.jpeg.jpg" alt="Project Logo" width="150"/>  
 
 - **Mohit Agarwal**  
-- **Saurabh**  
-- **Pradip**  
-- **Malhar**  
+- **Saurabh Tehare**  
+- **Pradip Wadge**  
+- **Malhar Dighe**  
 
 ---
 
