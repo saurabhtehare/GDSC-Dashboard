@@ -57,10 +57,10 @@ The Power BI dashboard provides a comprehensive view of the GDSC dataset through
 - **Comparative Analysis**: Enables side-by-side comparison of drug efficacy across screening mediums.
 - **Microsatellite Instability Analysis**: Provides MSI insights, useful for understanding mutation statuses in cancers.
 
-  <img src = "home.jpeg.png" alt = "project home" width= "1000" height = "600"/>
-  <img src = "insight1.jpeg.png" alt = "project insight1" width= "1000" height = "600"/>
-  <img src = "insight2.jpeg.png" alt = "project insight2" width= "1000" height = "600"/>
-  <img src = "info.jpeg.png" alt = "project info" width= "1000" height = "600"/>
+  <img src = "home.jpeg.png" alt = "project home" width= "1000" height = "450"/>
+  <img src = "insight1.jpeg.png" alt = "project insight1" width= "1000" height = "450"/>
+  <img src = "insight2.jpeg.png" alt = "project insight2" width= "1000" height = "450"/>
+  <img src = "info.jpeg.png" alt = "project info" width= "1000" height = "450"/>
 
 ## Video Walkthrough of the Project
 
