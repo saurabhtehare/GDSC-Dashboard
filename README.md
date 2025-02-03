@@ -58,8 +58,8 @@ The Power BI dashboard provides a comprehensive view of the GDSC dataset through
 - **Microsatellite Instability Analysis**: Provides MSI insights, useful for understanding mutation statuses in cancers.
 
   <img src = "home.jpeg.png" alt = "project home" width= "1000" height = "450"/>
-  <img src = "Analysis.jpeg.png" alt = "project insight1" width= "1000" height = "450"/>
-  <img src = "Insight.jpeg.png" alt = "project insight2" width= "1000" height = "450"/>
+  <img src = "Analysis.png" alt = "project insight1" width= "1000" height = "450"/>
+  <img src = "Insights.png" alt = "project insight2" width= "1000" height = "450"/>
   <img src = "info.jpeg.png" alt = "project info" width= "1000" height = "450"/>
 
 ## Video Walkthrough of the Project
