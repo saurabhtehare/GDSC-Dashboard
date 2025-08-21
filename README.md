@@ -62,11 +62,6 @@ The Power BI dashboard provides a comprehensive view of the GDSC dataset through
   <img src = "Insights.png" alt = "project insight2" width= "1000" height = "450"/>
   <img src = "info.jpeg.png" alt = "project info" width= "1000" height = "450"/>
 
-## Video Walkthrough of the Project
-
-[Presentation Link](https://youtu.be/ZxJ36yWMhnY)
-
-
 ---
 
 This project is ideal for researchers and healthcare professionals looking to understand and compare drug responses across cancer types, providing a foundation for developing targeted cancer treatments.
